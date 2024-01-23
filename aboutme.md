@@ -4,8 +4,9 @@ title: About me
 ---
 
 
-<h1 align="center">Hi 👋, I'm Palita Thansiwasub</h1>
-<h3 align="center">A 2023 graduate who believes great piece comes from tiny mindful intuition</h3>
+<h2 align="center">Hi, I'm Palita Thansiwasub 👋</h2>
+
+<h4 align="center">A 2023 graduate who believes great piece ✈ comes from tiny mindful intuition🕊</h4>
 
 - 🌱 I’m currently interested in **Finance, Social Network, E-Commerce Behavior**
 
