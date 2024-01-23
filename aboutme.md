@@ -15,7 +15,3 @@ title: About me
 
 - ⚡ Fun fact **I am an Introvert-like Extrovert ;;**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
