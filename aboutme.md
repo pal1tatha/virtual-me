@@ -1,14 +1,21 @@
 ---
 layout: page
 title: About me
-#subtitle: 101
 ---
-<h3 style="text-align: center;">Hi, I'm Palita Thanasiwasub 👋</h3>
-<br /> 
-<h3 style="text-align: center;">or you can call me Sherry 🥃 </h3> 
-<br />
-<br /> 
-_"I believe just little of mindfulness can possibly be developed into great intuition.🦅✈"_
 
 
+<h1 align="center">Hi 👋, I'm Palita Thansiwasub</h1>
+<h3 align="center">A 2023 graduate who believes great piece comes from tiny mindful intuition</h3>
+
+- 🌱 I’m currently interested in **Finance, Social Network, E-Commerce Behavior**
+
+- 📫 How to reach me **p.thanasiwasub@gmail.com**
+
+- 📄 Know about my experiences [click my resume](https://drive.google.com/file/d/1AX9BpzVDlqBegh1NmbGraHrt7kPOV4O8/view?usp=sharing)
+
+- ⚡ Fun fact **I am an Introvert-like Extrovert ;;**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
